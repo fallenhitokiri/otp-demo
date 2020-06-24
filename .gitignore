@@ -1,0 +1,7 @@
+db.sqlite3
+nohup.out
+
+*.pyc
+*__pycache__/
+*.so
+.mypy_cache
